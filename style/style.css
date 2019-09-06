@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url('./images/train.jpg');
+    background-size: cover;
+}
+
+.text-center {
+    color: whitesmoke;
+    font-weight: 300;
+}
+.table table-inverse {
+    background-color: pink;
+}
